@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IoT-Based-Sequence-Memory-Game
 Developed an IoT-based sequence memory game using Arduino UNO, LEDs, push buttons, and buzzer with automated scoring across 10 attempts.
 # IoT-Based Sequence Memory Game
@@ -40,3 +41,7 @@ An interactive memory game built using Arduino Uno and ESP32. Players repeat LED
 
 ## Author
 Vidya Sri Madabattula
+=======
+# Sequence-Memory-Game
+Developed an IoT-based sequence memory game using Arduino UNO, LEDs, push buttons, and buzzer with automated scoring across 10 attempts.
+>>>>>>> 83664da8101859a4f5d6af05f62c9ce462b75d4f
