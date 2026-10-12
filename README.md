@@ -40,7 +40,9 @@ An interactive memory game built using Arduino Uno and ESP32. Players repeat LED
 5. Upload the sketches to the respective boards and follow the serial monitor output.
 
 ## Author
-Vidya Sri Madabattula
+Vidya Sri M
+Niharika J
+Varshitha D
 =======
 # Sequence-Memory-Game
 Developed an IoT-based sequence memory game using Arduino UNO, LEDs, push buttons, and buzzer with automated scoring across 10 attempts.
